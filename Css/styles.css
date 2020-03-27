@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem ;
+  color: #66BFBF ;
+
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem ;
+  font-weight: normal;
+  color: #66BFBF ;
+  padding-bottom: 10px;
+}
+h3{
+  color:#11999E;
+}
+
+.top-container  {
+  background-color: #7f78d2;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+/* images */
+
+
+.bottom-cloud {
+  position: absolute;
+  left:250px;
+  bottom:300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+   top:50px;
+
+
+
+}
+
+.footer-link{
+  color:#EAF6F6;
+
+}
+.profile{
+  margin-top: 35px;
+  width:50%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.code-img{
+  float: left;
+  margin-right: 30px;
+}
+.img-skill{
+  float: right;
+  margin-right: 30px;
+
+}
+.bottom-container{
+  background-color: #7f78d2 ;
+  padding: 50px 0 20px;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: gray;
+  width: 5%;
+  margin:100px auto;
+}
+
+.contact-me{
+  width:40%;
+  margin:40px auto 60px;
+
+
+}
+/*buttons */
+.btn {
+	box-shadow: 3px 4px 0 0 #424874;
+	background:linear-gradient(to bottom, #a6b1e1 5%, #7f78d2 100%);
+	background-color:#a6b1e1;
+	border-radius:18px;
+	border:1px solid #d8c1e6;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 13px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #810e05;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #7f78d2 5%, #a6b1e1 100%);
+	background-color:#7f78d2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+/*footer section*/
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 ;
+
+}
+a{
+  font-family: 'Merriweather', serif;
+  margin : 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#66BFBF;
+}
