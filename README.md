@@ -1,2 +1,2 @@
 # personal-website
-Using HTML and CSS basic structure 
+Using HTML|CSS Basic Structure 
